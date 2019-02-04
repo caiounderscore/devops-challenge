@@ -1,4 +1,4 @@
-# Esse é um exercício de provisionamento de infra-estrutura como código 
+# Esse repositório é um exercício de provisionamento de infra-estrutura como código 
 
 ### Na cloud da AWS ele irá provisionar os seguintes recursos:
 - VPC 
