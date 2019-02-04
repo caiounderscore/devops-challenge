@@ -7,7 +7,7 @@
 - Nat gateways 
 - Internet Gateway 
 - Security Groups 
-- 2 instancias (nginx, apache) 
+- 2 instancias EC2 (nginx, apache) 
 - 1 Load balancer 
 - 1 Target group 
 
