@@ -17,7 +17,7 @@ Ao final do provisionamento, retornará 2 informações de saída, o endpoint do
 
 Para **personalizar** informações como região, subnets, range de ip e etc, basta fazer as alterações no arquivo **vars/global.tfvars**
 
-### Comandos para priviosnamento da infrastrutura:
+### Comandos para provisionamento da infrastrutura:
 ```
 terraform init 
 terraform apply -var-file=vars/global.tfvars
